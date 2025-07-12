@@ -1,4 +1,5 @@
-Chat with PDF - A Streamlit Q&A Application
+**Chat with PDF - A Streamlit Q&A Application**
+
 This project is an interactive chatbot powered by a Large Language Model (LLM) that allows you to have a conversation with your PDF documents. Upload a PDF, and the application will enable you to ask questions about its content, providing intelligent answers based on the text.
 
 The application is built using Streamlit for the user interface and LangChain for orchestrating the question-answering pipeline with the Groq API for fast LLM inference.
